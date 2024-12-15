@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346833076283",
+    "project_id": "studentblog-42fb3",
+    "storage_bucket": "studentblog-42fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346833076283:android:7be36788bc4a34e5061c1e",
+        "android_client_info": {
+          "package_name": "com.rukuia.my-new-project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346833076283-7kt7cnbds4sukb9hkr0trbdfhjh58u32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rukuia.my-new-project",
+            "certificate_hash": "4947bb7efa0886aa742df213e73158d7c5034b5e"
+          }
+        },
+        {
+          "client_id": "346833076283-siuv9qgdfdhd6u1kksgfeq43j38cp25b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rukuia.my-new-project",
+            "certificate_hash": "c4945e34232958788289433812f63e3223fcd2a3"
+          }
+        },
+        {
+          "client_id": "346833076283-lcgh6e0vmm6bs9kt3vfp5vjhq6odvlg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHUIXU2qz3-18zE8ytuiMopCEybnxLP_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346833076283-lcgh6e0vmm6bs9kt3vfp5vjhq6odvlg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
